@@ -2,7 +2,10 @@
 
 ---
 
-#### 1. The course recommends applying optimization techniques as much as possible during validation so that you can get as accurate of a comparison as possible. True or False?
+#### 1. What is an example of a Univariate time series?
 
-- [ ] True
-- [x] `False`
+- [ ] Hour by hour weather
+- [x] `Hour by hour temperature`
+- [ ] Fashion items
+- [ ] Baseball scores
+
