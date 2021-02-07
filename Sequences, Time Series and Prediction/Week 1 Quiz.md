@@ -9,3 +9,9 @@
 - [ ] Fashion items
 - [ ] Baseball scores
 
+#### 2. What is an example of a Multivariate time series?
+
+- [ ] Hour by hour temperature 
+- [ ] Baseball scores
+- [x] `Hour by hour weather` 
+- [ ] Fashion items
