@@ -27,3 +27,12 @@
 
 - [x] `True`
 - [ ] False
+
+#### 5. What is Seasonality?
+
+- [ ] Data aligning to the 4 seasons of the calendar
+- [x] A regular change in shape of the data
+- [ ] Data that is only available at certain times of the year
+- [ ] Weather data
+
+
