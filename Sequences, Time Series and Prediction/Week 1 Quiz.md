@@ -35,4 +35,10 @@
 - [ ] Data that is only available at certain times of the year
 - [ ] Weather data
 
+#### 6. What is a trend?
+
+- [x] `An overall direction for data regardless of direction`
+- [ ] An overall consistent downward direction for data
+- [ ] An overall consistent flat direction for data
+- [ ] An overall consistent upward direction for data
 
