@@ -42,3 +42,9 @@
 - [ ] An overall consistent flat direction for data
 - [ ] An overall consistent upward direction for data
 
+#### 7. In the context of time series, what is noise?
+
+- [ ] Data that doesn’t have a trend
+- [ ] Sound waves forming a time series
+- [ ] Data that doesn’t have seasonality
+- [x] `Unpredictable changes in time series data`
