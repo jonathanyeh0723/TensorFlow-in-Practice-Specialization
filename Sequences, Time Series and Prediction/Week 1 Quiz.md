@@ -48,3 +48,5 @@
 - [ ] Sound waves forming a time series
 - [ ] Data that doesn’t have seasonality
 - [x] `Unpredictable changes in time series data`
+
+#### 8.
