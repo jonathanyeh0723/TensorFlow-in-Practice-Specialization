@@ -49,4 +49,11 @@
 - [ ] Data that doesn’t have seasonality
 - [x] `Unpredictable changes in time series data`
 
-#### 8.
+#### 9. What is a non-stationary time series?
+
+- [ ] One that is consistent across all seasons
+- [ ] One that moves seasonally
+- [ ] One that has a constructive event forming trend and seasonality
+- [x] `One that has a disruptive event breaking trend and seasonalit`
+
+
