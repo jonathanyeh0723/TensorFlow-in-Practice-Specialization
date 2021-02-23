@@ -27,5 +27,15 @@
 
 - [ ] Mean Series error
 - [ ] Mean Slight error
-- [ ] `Mean Squared error` 
-- [x] Mean Second error
+- [x] `Mean Squared error` 
+- [ ] Mean Second error
+
+#### 5. What does MAE stand for?
+
+- [ ] Mean Average Error
+- [ ] Mean Advanced Error
+- [x] `Mean Absolute error` 
+- [ ] Mean Active Error
+
+
+
