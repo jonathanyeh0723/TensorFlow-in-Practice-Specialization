@@ -37,5 +37,4 @@
 - [x] `Mean Absolute error` 
 - [ ] Mean Active Error
 
-
-
+#### 6. If time values are in time[], series values are in series[] and we want to split the series into training and validation at time 1000, what is the correct code?
