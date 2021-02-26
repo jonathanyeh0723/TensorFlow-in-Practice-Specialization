@@ -42,7 +42,9 @@
 - [ ]  
       time_train =time[split_time]
       x_train = series[split_time]
+      
       time_valid = time[split_time]
+      
       x_valid = series[split_time]
       
 - [ ] 
