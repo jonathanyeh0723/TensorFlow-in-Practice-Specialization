@@ -46,6 +46,12 @@
       time_valid = time[split_time]
       x_valid = series[split_time]
       
-- [ ] Mean Advanced Error
+- [ ] 
+      
+      time_train = time[split_time]
+      x_train = series[split_time]
+      time_valid = time[split_time:]
+      x_valid = series[split_time:]
+      
 - [x] `Mean Absolute error` 
 - [ ] Mean Active Error
