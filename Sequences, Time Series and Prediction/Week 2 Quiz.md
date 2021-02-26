@@ -38,3 +38,11 @@
 - [ ] Mean Active Error
 
 #### 6. If time values are in time[], series values are in series[] and we want to split the series into training and validation at time 1000, what is the correct code?
+
+- [ ] time_train = time[split_time]
+      x_train = series[split_time]
+      time_valid = time[split_time]
+      x_valid = series[split_time]
+- [ ] Mean Advanced Error
+- [x] `Mean Absolute error` 
+- [ ] Mean Active Error
