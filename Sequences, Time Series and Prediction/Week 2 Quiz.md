@@ -61,5 +61,11 @@
       time_valid = time[split_time:]
       x_valid = series[split_time:]
 
-#### 7.
+#### 7. If you want to inspect the learned parameters in a layer after training, what’s a good technique to use?
+
+- [x] `Assign a variable to the layer and add it to the model using that variable. Inspect its properties after training`
+- [ ] Run the model with unit data and inspect the output for that layer
+- [ ] Decompile the model and inspect the parameter set for that layer
+- [ ] Iterate through the layers dataset of the model to find the layer you want
+
 
