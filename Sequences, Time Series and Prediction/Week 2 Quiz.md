@@ -69,3 +69,9 @@
 - [ ] Iterate through the layers dataset of the model to find the layer you want
 
 
+#### 8. How do you set the learning rate of the SGD optimizer?
+
+- [ ] Use the Rate property 
+- [x] `Use the lr property`
+- [ ] Use the RateOfLearning property
+- [ ] You can’t set it
