@@ -75,3 +75,10 @@
 - [x] `Use the lr property`
 - [ ] Use the RateOfLearning property
 - [ ] You can’t set it
+
+#### 9. If you want to amend the learning rate of the optimizer on the fly, after each epoch, what do you do?
+
+- [ ] Use a LearningRateScheduler and pass it as a parameter to a callback
+- [ ] Callback to a custom function and change the SGD property
+- [x] `Use a LearningRateScheduler object in the callbacks namespace and assign that to the callback`
+- [ ] You can’t set it
