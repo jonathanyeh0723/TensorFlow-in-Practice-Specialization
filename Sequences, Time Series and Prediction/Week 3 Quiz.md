@@ -8,3 +8,10 @@
 - [ ] H
 - [x] `Y(hat) and H`
 - [ ] H(hat) and Y
+
+#### 2. What is a sequence to vector if an RNN has 30 cells numbered 0 to 29
+
+- [ ] The Y(hat) for the first cell
+- [ ] The average Y(hat) for all 30 cells
+- [ ] The total Y(hat) for all cells
+- [x] `The Y(hat) for the last cell`
