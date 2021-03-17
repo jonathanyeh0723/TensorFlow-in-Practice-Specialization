@@ -15,3 +15,10 @@
 - [ ] The average Y(hat) for all 30 cells
 - [ ] The total Y(hat) for all cells
 - [x] `The Y(hat) for the last cell`
+
+#### 3. What does a Lambda layer in a neural network do?
+
+- [ ] Pauses training without a callback
+- [x] `Allows you to execute arbitrary code while training`
+- [ ] There are no Lambda layers in a neural network
+- [ ] Changes the shape of the input or output data
