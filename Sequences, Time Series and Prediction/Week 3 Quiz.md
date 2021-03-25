@@ -23,4 +23,9 @@
 - [ ] There are no Lambda layers in a neural network
 - [ ] Changes the shape of the input or output data
 
-#### 
+#### 4. What does the axis parameter of tf.expand_dims do?
+
+- [ ] Defines if the tensor is X or Y
+- [x] `Defines the dimension index at which you will expand the shape of the tensor`
+- [ ] Defines the axis around which to expand the dimensions
+- [ ] Defines the dimension index to remove when you expand the tensor
