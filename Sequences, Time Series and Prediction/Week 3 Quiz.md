@@ -29,3 +29,10 @@
 - [x] `Defines the dimension index at which you will expand the shape of the tensor`
 - [ ] Defines the axis around which to expand the dimensions
 - [ ] Defines the dimension index to remove when you expand the tensor
+
+#### 5. A new loss function was introduced in this module, named after a famous statistician. What is it called?
+
+- [x] `Huber loss`
+- [ ] Hubble loss
+- [ ] Hawking loss
+- [ ] Hyatt loss
