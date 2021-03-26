@@ -36,3 +36,11 @@
 - [ ] Hubble loss
 - [ ] Hawking loss
 - [ ] Hyatt loss
+
+#### 6. What’s the primary difference between a simple RNN and an LSTM
+
+- [x] `In addition to the H output, LSTMs have a cell state that runs across all cells`
+- [ ] In addition to the H output, RNNs have a cell state that runs across all cells 
+- [ ] LSTMs have a single output, RNNs have multiple
+- [ ] LSTMs have multiple outputs, RNNs have a single one
+
