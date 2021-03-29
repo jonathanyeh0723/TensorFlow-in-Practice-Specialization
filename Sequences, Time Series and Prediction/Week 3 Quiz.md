@@ -44,3 +44,6 @@
 - [ ] LSTMs have a single output, RNNs have multiple
 - [ ] LSTMs have multiple outputs, RNNs have a single one
 
+#### 7.
+
+- [ ] 
