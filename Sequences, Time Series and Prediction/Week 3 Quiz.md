@@ -44,6 +44,9 @@
 - [ ] LSTMs have a single output, RNNs have multiple
 - [ ] LSTMs have multiple outputs, RNNs have a single one
 
-#### 7.
+#### 7. If you want to clear out all temporary variables that tensorflow might have from previous sessions, what code do you run?
 
-- [ ] 
+- [ ] `tf.keras.backend.clear_session()`
+- [ ] tf.cache.backend.clear_session()
+- [ ] tf.cache.clear_session()
+- [ ] tf.keras.clear_session
